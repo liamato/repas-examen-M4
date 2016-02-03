@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Minerals</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/jquery.mobile-1.3.2.min.css">
+<script src="js/jquery-1.9.1.min.js"></script>
+<script src="js/jquery.mobile-1.3.2.min.js"></script>
+<style>
+.ui-bar-b h1{
+    background-color: #99CC33;
+}
+</style>
+<style type="text/css"></style></head>
+<body>
+<div id="home" data-role="page">
+    <div data-role="header" data-theme="c"></div>
+    <div data-role="content">
+		<ul data-role="listview" data-filter="true" id="articleList">
+
+			<li id="list0"><a href="#page-0" id="link0"><img src="img/m60.jpg"><h1>AERINITA</h1></a></li>
+		</ul>
+    </div>
+	</div>
+
+<div id="page-0" data-role="page">
+	<div data-role="header">
+		<a href="#" data-icon="arrow-l" data-iconpos="left" data-rel="back" data-transition="slide" data-direction="reverse"> Anterior</a>
+		<a href="#page-1" data-icon="arrow-r" data-iconpos="right" data-rel="next" data-transition="slide" data-direction="reverse"> Següent</a>
+		<h1>AERINITA</h1>
+	</div>
+	<div data-role="content">
+		<table bgcolor="#b9cbf9">
+		<tbody><tr><td height="36"> <b> AERINITA</b></td><td>AERINITA</td><td>Silicat de composici� i estructura poc definides.</td><td> <b>Grup: </b> VIII.- Silicats</td></tr>
+		</tbody></table>
+		<p>
+			</p><table>
+				<tbody><tr><td bgcolor="#b9cbf9"> <b> Pes específic: </b>2,5</td><td rowspan="9"> <p align="CENTER"><img src="img/m60.jpg"></p></td></tr>
+				<tr><td> <b>Duresa: </b>3</td></tr><tr><td> <b>Exfoliació: </b></td></tr>
+				<tr><td> <b>Color: </b>blau cel, blau fosc <b> Ratlla: </b> </td></tr>
+				<tr><td> <b>Lluïssor: </b></td></tr>
+			</tbody></table>
+		<p></p>
+	</div>
+	<div data-role="footer" data-position="fixed">
+	<div data-role="navbar">
+		<ul>
+			<li><a href="#page-1" data-role="tab" data-icon="grid" class="ui-btn-active">Page 1</a></li>
+			<li><a href="#page-2" data-role="tab" data-icon="grid">Page 2</a></li>
+			<li><a href="#page-3" data-role="tab" data-icon="grid">Page 3</a></li>
+		</ul>
+	</div>
+	</div>
+	</div>
+
+<script type="text/javascript">
+$("a[data-role=tab]").each(function () {
+    var anchor = $(this);
+    anchor.bind("click", function () {
+        $.mobile.changePage(anchor.attr("href"), {
+            transition: "none",
+            changeHash: false
+        });
+        return false;
+    });
+});
+
+$("div[data-role=page]").bind("pagebeforeshow", function (e, data) {
+    $.mobile.silentScroll(0);
+    $.mobile.changePage.defaults.transition = 'slide';
+});
+
+
+</script></body></html>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="listview.xsl"?>
+<equip nom="FIATC JOVENTUT">
+   <jugador>
+      <dorsal>0</dorsal>
+      <nom>Mallet, Demond</nom>
+      <posicio>B</posicio>
+      <nacio>USA</nacio>
+      <lic>EXT</lic>
+      <alt>1.82</alt>
+      <ed>37</ed>
+      <t>4</t>
+      <img>http://www.acb.com/fotos_cara/jugadores/JBEKLACB60.jpg</img>
+   </jugador>
+   <jugador>
+      <dorsal>3</dorsal>
+      <nom>Sàbat, Albert</nom>
+      <posicio>B</posicio>
+      <nacio>ESP</nacio>
+      <lic>JFL</lic>
+      <alt>1.82</alt>
+      <ed>30</ed>
+      <t>1</t>
+      <img>http://www.acb.com/fotos_cara/jugadores/JB2JLACB60.jpg</img>
+   </jugador>
+   <jugador>
+      <dorsal>6</dorsal>
+      <nom>Vidal, Sergi</nom>
+      <posicio>E</posicio>
+      <nacio>ESP</nacio>
+      <lic>JFL</lic>
+      <alt>1.98</alt>
+      <ed>34</ed>
+      <t>3</t>
+      <img>http://www.acb.com/fotos_cara/jugadores/JA4BLACB60.jpg</img>
+   </jugador>
+   <jugador>
+      <dorsal>9</dorsal>
+      <nom>Llovet, Nacho</nom>
+      <posicio>P</posicio>
+      <nacio>ESP</nacio>
+      <lic>JFL</lic>
+      <alt>2.01</alt>
+      <ed>24</ed>
+      <t>6</t>
+      <img>http://www.acb.com/fotos_cara/jugadores/JY7OLACB60.jpg</img>
+   </jugador>
+   <jugador>
+      <dorsal>10</dorsal>
+      <nom>Miralles, Albert</nom>
+      <posicio>P</posicio>
+      <nacio>ESP</nacio>
+      <lic>JFL</lic>
+      <alt>2.06</alt>
+      <ed>33</ed>
+      <t>5</t>
+      <img>http://www.acb.com/fotos_cara/jugadores/JA3VLACB60.jpg</img>
+   </jugador>
+   <jugador>
+      <dorsal>12</dorsal>
+      <nom>Suton, Goran</nom>
+      <posicio>F</posicio>
+      <nacio>HRV</nacio>
+      <lic>EUR</lic>
+      <alt>2.08</alt>
+      <ed>30</ed>
+      <t>2</t>
+      <img>http://www.acb.com/fotos_cara/jugadores/J1LMLACB60.jpg</img>
+   </jugador>
+   <jugador>
+      <dorsal>14</dorsal>
+      <nom>Ventura, Albert</nom>
+      <posicio>E</posicio>
+      <nacio>ESP</nacio>
+      <lic>JFL</lic>
+      <alt>1.92</alt>
+      <ed>23</ed>
+      <t>6</t>
+      <img>http://www.acb.com/fotos_cara/jugadores/J718LACB60.jpg</img>
+   </jugador>
+   <jugador>
+      <dorsal>16</dorsal>
+      <nom>Abalde, Alberto</nom>
+      <posicio>E</posicio>
+      <nacio>ESP</nacio>
+      <lic>JFL</lic>
+      <alt>2.00</alt>
+      <ed>19</ed>
+      <t>3</t>
+      <img>http://www.acb.com/fotos_cara/jugadores/J8C4LACB60.jpg</img>
+   </jugador>
+   <jugador>
+      <dorsal>23</dorsal>
+      <nom>Drame, Ousmane</nom>
+      <posicio>P</posicio>
+      <nacio>GIN</nacio>
+      <lic>COT</lic>
+      <alt>2.06</alt>
+      <ed>21</ed>
+      <t>1</t>
+      <img>http://www.acb.com/fotos_cara/jugadores/JFPSLACB60.jpg</img>
+   </jugador>
+   <jugador>
+      <dorsal>33</dorsal>
+      <nom>Paul, Brandon</nom>
+      <posicio>E</posicio>
+      <nacio>USA</nacio>
+      <lic>EXT</lic>
+      <alt>1.93</alt>
+      <ed>24</ed>
+      <t>1</t>
+      <img>http://www.acb.com/fotos_cara/jugadores/JFQDLACB60.jpg</img>
+   </jugador>
+   <jugador>
+      <dorsal>13</dorsal>
+      <nom>Nogués, José Ignacio</nom>
+      <posicio>F</posicio>
+      <nacio>ESP</nacio>
+      <lic>JFL</lic>
+      <alt>2.04</alt>
+      <ed>20</ed>
+      <t>2</t>
+      <img>http://www.acb.com/fotos_cara/jugadores/J8C8LACB60.jpg</img>
+   </jugador>
+   <jugador>
+      <dorsal>19</dorsal>
+      <nom>Nikolic, Zoran</nom>
+      <posicio>P</posicio>
+      <nacio>MNE</nacio>
+      <lic>JFL</lic>
+      <alt>2.06</alt>
+      <ed>19</ed>
+      <t>2</t>
+      <img>http://www.acb.com/fotos_cara/jugadores/J2B0LACB60.jpg</img>
+   </jugador>
+   <jugador>
+      <dorsal>20</dorsal>
+      <nom>Sans, Agustí</nom>
+      <posicio>B</posicio>
+      <nacio>ESP</nacio>
+      <lic>JFL</lic>
+      <alt>1.94</alt>
+      <ed>20</ed>
+      <t>2</t>
+      <img>http://www.acb.com/fotos_cara/jugadores/JXATLACB60.jpg</img>
+   </jugador>
+</equip>

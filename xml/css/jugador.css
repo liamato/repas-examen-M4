@@ -1,0 +1,59 @@
+/* ELEMENTOS DEL CENTRO  */
+
+#portadatop2 {
+   background-image : url("../imgs/portada_top.gif");
+   width : 458px;
+   height : 20px;
+   text-align : left;
+   font-size : 10pt;
+   font-weight: bold;
+   color : white;
+   padding-left: 10px;
+   padding-top: 2px;
+   z-index: 10;
+   }
+#portadabottom {
+   background-image : url("../imgs/portada_bottom.gif");
+   width : 468px;
+   height : 8px;
+   z-index: 10;
+   }
+
+TD.titulojug {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size : 8pt;
+   text-align : left;
+   font-weight: normal;
+   color : black;
+}
+TD.datojug {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size : 9pt;
+   text-align : left;
+   font-weight: bold;
+   color : black;
+}
+
+/* CONTENEDOR DE LA PORTADA DERECHA */
+
+#portadadertop {
+   float : left;
+   width : 353px;
+   font-size : 12pt;
+   font-weight: bold;
+   color : white;
+   margin-right:auto;
+   margin-left:auto;
+   margin-top: 0;
+   text-align : left;
+   }
+
+
+#titulojug {
+   display: inline;
+   font-size : 10pt;
+   font-weight: bold;
+   color : white;
+   padding-left:25px;
+   z-index: 10;
+   }
